@@ -1,9 +1,7 @@
 import React from 'react'
 import "./index.css"
 import sample from"./sample.jpg"
-import {showMore} from './Action'
-import {connect } from 'react-redux'
-function Card(props){
+function Card(){
     return(
         <>
         <div className="pos-5">
@@ -19,14 +17,4 @@ function Card(props){
         </>
     )
 }
-const mapStateToProps = state=>{
-	
-}
-const mapDispatchToProps =dispatch=>{
-	return{
-		showMore: () =>dispatch(showMore())
-	}
-}
-export default connect(
-	mapStateToProps,mapDispatchToProps
-	)(Card);
+export default Card;

@@ -8,9 +8,9 @@ import Scroll from './Scroll'
 import Support from './Support'
 import Footer from './Footer'
 import {Provider} from 'react-redux'
-import store from './store'
+import store from './redux/store'
 import { getRoles } from '@testing-library/react'
-import Panel from './Panel'
+import UserContainer from './components/UsersContainer'
 /*return(
 <Provider store ={store}>
     <>
@@ -29,17 +29,10 @@ function App(){
           <Card />
         </div>
         <div className="p-2">
-            <Panel />
+            <UserContainer/>
         </div>
     </div>
-    <div className="box-3">
-      	<div class="p-1">
-          <Card />
-        </div>
-        <div className="p-2">
-            <Card />
-        </div>
-    </div>
+   
     <Button />
     <Sale />
     <p className="p-4"><strong>Shop on Paytm</strong></p>
