@@ -13,7 +13,7 @@ function Card(){
 		     <div className="pos-6">
 		    <p><span className="s-5">Mobile Prepaid</span></p>
 	        <p><span className="s-6">Electricity</span></p>
-	        <p><span className="s-7">Cricket</span></p>
+	        <p><span className="s-7">Recharge</span></p>
 		     </div>
         </>
     )
