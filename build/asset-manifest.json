@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/PaytmRedux/static/css/main.9804d43f.chunk.css",
-    "main.js": "/PaytmRedux/static/js/main.ebab6dd8.chunk.js",
-    "main.js.map": "/PaytmRedux/static/js/main.ebab6dd8.chunk.js.map",
+    "main.js": "/PaytmRedux/static/js/main.b6656b48.chunk.js",
+    "main.js.map": "/PaytmRedux/static/js/main.b6656b48.chunk.js.map",
     "runtime-main.js": "/PaytmRedux/static/js/runtime-main.641b70fd.js",
     "runtime-main.js.map": "/PaytmRedux/static/js/runtime-main.641b70fd.js.map",
-    "static/js/2.a5e76ccc.chunk.js": "/PaytmRedux/static/js/2.a5e76ccc.chunk.js",
-    "static/js/2.a5e76ccc.chunk.js.map": "/PaytmRedux/static/js/2.a5e76ccc.chunk.js.map",
+    "static/js/2.bc473a82.chunk.js": "/PaytmRedux/static/js/2.bc473a82.chunk.js",
+    "static/js/2.bc473a82.chunk.js.map": "/PaytmRedux/static/js/2.bc473a82.chunk.js.map",
     "index.html": "/PaytmRedux/index.html",
     "static/css/main.9804d43f.chunk.css.map": "/PaytmRedux/static/css/main.9804d43f.chunk.css.map",
-    "static/js/2.a5e76ccc.chunk.js.LICENSE.txt": "/PaytmRedux/static/js/2.a5e76ccc.chunk.js.LICENSE.txt",
+    "static/js/2.bc473a82.chunk.js.LICENSE.txt": "/PaytmRedux/static/js/2.bc473a82.chunk.js.LICENSE.txt",
     "static/media/sample.0e4dd224.jpg": "/PaytmRedux/static/media/sample.0e4dd224.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.641b70fd.js",
-    "static/js/2.a5e76ccc.chunk.js",
+    "static/js/2.bc473a82.chunk.js",
     "static/css/main.9804d43f.chunk.css",
-    "static/js/main.ebab6dd8.chunk.js"
+    "static/js/main.b6656b48.chunk.js"
   ]
 }
