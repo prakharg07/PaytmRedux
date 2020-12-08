@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import { connect } from 'react-redux'
 import { fetchUsers } from '../redux'
 import sample from "./sample.jpg"
+import {Link} from 'react-router-dom'
 function UsersContainer ({userData,fetchUsers}) {
   
   return userData.loading ? (
@@ -14,15 +15,15 @@ function UsersContainer ({userData,fetchUsers}) {
         <div class="b-2">
          {userData.users.map(user=>(<>
             <div class="b-3">
-            <img src={sample} alt="user-panel" height="60px" width="60px" />
+            <Link to='/recharge'><img src={sample} alt="user-panel" height="60px" width="60px" /></Link>
             <p class="b-4">{user.name}</p>
              </div>
              </>
          ))}
          </div>
          <div className="pos-5">
-		        <img src={sample} alt="user-panel" height="60px" width="60px" />
-		        <img src={sample} alt="user-panel" height="60px" width="60px" />
+         <Link to='/mobile'> <img src={sample} alt="user-panel" height="60px" width="60px" /></Link>
+         <Link to='/electricity'> <img src={sample} alt="user-panel" height="60px" width="60px" /></Link>
                <span class="b-7"> <button onClick={fetchUsers}>Click</button></span>
 		     </div>
         < div className="pos-6">

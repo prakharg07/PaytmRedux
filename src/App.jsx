@@ -11,13 +11,6 @@ import {Provider} from 'react-redux'
 import store from './redux/store'
 import { getRoles } from '@testing-library/react'
 import UserContainer from './components/UsersContainer'
-/*return(
-<Provider store ={store}>
-    <>
-    
-    </>
-    </Provider>
-    )*/
 function App(){
     return(
 <Provider store ={store}>

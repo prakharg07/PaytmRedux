@@ -245,6 +245,38 @@ hr{
 	margin-top:30px;
 	overflow-x: hidden;
 }
+.mobile{
+	font-size: 15px;
+	font-weight: 600;
+	color:grey;
+	padding:20px;
+}
+.mobile h3{
+	color:black;
+}
+.recharge{
+	font-size: 15px;
+	font-weight: 600;
+	color:grey;
+	padding:20px;
+}
+.recharge h3{
+	color:black;
+}
+.electricity{
+	font-size: 15px;
+	font-weight: 600;
+	color:grey;
+	padding:20px;
+}
+.electricity h3{
+	color:black;
+}
+.m-1{
+	font-size:25px;
+	display: flex;
+	justify-content: center;
+}
 .box-7{
 	display:flex;
 	margin-left:20px;
