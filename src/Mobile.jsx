@@ -17,7 +17,7 @@ Paytm provides you with the simplest way to make a mobile recharge online withou
 3. Enter the amount
 4. Now proceed with the payment, you can do so through Credit/ Debit Card, Net Banking or Paytm Wallet as per your choice, all our payment means are secure and protected
 
-That’s it, you are done with the Paytm online recharge! Paytm offers you flexible payment options for you to easily sail through our painless online recharge process. You are instantly notified about the phone recharge transaction through your registered mobile number and email-id.
+That’s it, you are done with the Paytm online rechaerge! Paytm offers you flexible payment options for you to easily sail through our painless online recharge process. You are instantly notified about the phone recharge transaction through your registered mobile number and email-id.
 
 <h3>24*7 Paytm Online Recharge For All Major Mobile Operators</h3>
 Enjoy the benefit of making an online prepaid recharge in a jiffy without even going to the stores. Paytm offers online recharge service for India's top cellular networks i.e. Airtel Recharge | Vi Recharge | MTNL Recharge | BSNL Recharge | and Jio Recharge. Online recharge is a fast and stress-free process on India’s finest online recharge app- Paytm.
